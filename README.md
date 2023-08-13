@@ -36,3 +36,7 @@
 8. Pomotoro-timer: A python3 implementation for pomodoro technique timer (25min work- 5min break-> repeat 4 cycles -> 20min break), press Start to start the timer and press Reset to reset the timer, 'Work' or 'Break' will pop up corresponding to current state.                                                                                                                                                                                       
    [DEMO](https://replit.com/@andreivln/Pomodoro-timer?v=1)                                                                                                                                                            
    ![pomodoro-timer](https://github.com/andreivln/python3-projects/blob/main/Pomodoro-timer/pomodora-technique-timer.gif)
+
+9. Password-manager: A password manager that stores credentials locally and can generate strong, random password!                                                                                                             
+    [DEMO](https://replit.com/@andreivln/password-manager?v=1)                                                                                                                                                          
+   ![password-manager](https://github.com/andreivln/python3-projects/blob/main/Password-manager/password-manager.gif)
