@@ -32,3 +32,7 @@
 7. Miles-Km-Converter: Miles to Km converter, my first GUI program using `tkinter` module in python.                                                                                                                        
    [DEMO](https://replit.com/@andreivln/Miles-to-Km?v=1)                                                                                                                                                                    
    ![miles-to-km](https://github.com/andreivln/python3-projects/blob/main/Miles-to-KM-converter/miles-km-converter.gif)
+
+8. Pomotoro-timer: A python3 implementation for pomodoro technique timer (25min work- 5min break-> repeat 4 cycles -> 20min break), press Start to start the timer and press Reset to reset the timer, 'Work' or 'Break' will pop up corresponding to current state.                                                                                                                                                                                       
+   [DEMO](https://replit.com/@andreivln/Pomodoro-timer?v=1)                                                                                                                                                            
+   ![pomodoro-timer](https://github.com/andreivln/python3-projects/blob/main/Pomodoro-timer/pomodora-technique-timer.gif)
