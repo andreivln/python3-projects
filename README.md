@@ -74,6 +74,9 @@
     [DEMO](https://replit.com/@andreivln/Internet-provider-complaint-bot?v=1)                                                                                                                                                 
     ![complaint-bot](https://github.com/andreivln/python3-projects/blob/main/Internet-provider-complaint-bot/comcast-complaint-bot.png)
 
+18. Instagram-follower-bot: An Instagram bot that will automatically follow the followers of target account, and skip anyone which you already followed! Import your own account credential to environmental variables and input target account's name at the start when you run the script.                                                                                                                                                             
+    [DEMO](https://replit.com/@andreivln/Instagram-follower-bot?v=1)                                                                                                                                                          
+    ![instagram-follower-bot](https://github.com/andreivln/python3-projects/blob/main/Instagram-follower-bot/instagram-follower-bot.gif)
                                                                                 
 
 
