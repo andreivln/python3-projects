@@ -6,13 +6,17 @@
 ####
 1. Coffee Maker: learn the concept of Object-oriented programming. Type 'report' to see ingredients level and profit, type 'off' to exit.                                                                                      
    [DEMO](https://replit.com/@andreivln/Coffe-Machine?v=1)                                                                                                                                         
-   ![coffeemaker](https://raw.githubusercontent.com/andreivln/python3-projects/main/Coffe-maker/coffee-maker.gif)
+   ![coffeemaker](https://github.com/andreivln/python3-projects/blob/main/Coffe-maker/coffee-maker.gif)
 
 
 2. Turtle-race: 6 turtles in rainbow colors will race to final at random speed. Type a rainbow color to bet on it!                                                                                                             
    [DEMO](https://replit.com/@andreivln/Turtle-Race?v=1)                                                                                                                                         
-   ![turtle-race](https://raw.githubusercontent.com/andreivln/python3-projects/main/Turtle-race/turtle-race.gif)
+   ![turtle-race](https://github.com/andreivln/python3-projects/blob/main/Turtle-race/turtle-race.gif)
    
 3. Snake-game: Classic snake game written in python3, use Up, Down, Left, Right arrow key to control the snake eating food, game over if touch wall or its tails!                                                               
    [DEMO](https://replit.com/@andreivln/Snake-Game?v=1)                                                                                                                                          
-   ![snake-game](https://raw.githubusercontent.com/andreivln/python3-projects/main/Snake-game/snake.gif)
+   ![snake-game](https://github.com/andreivln/python3-projects/blob/main/Snake-game/snake.gif)
+
+4. Pong-game: Classic pong game written in python3 using `turtle` module, use w and s to control left paddle, up and down arrow key to control right paddle, ball speed increases with each successful paddle bounce.          
+   [DEMO](https://replit.com/@andreivln/Pong-game?v=1)                                                                                                                                                                         
+   ![pong-game](https://github.com/andreivln/python3-projects/blob/main/Arcade-game-pong/pong-game.gif)
