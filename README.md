@@ -24,3 +24,7 @@
 5. Turtle-crossing: Classic turtle crossing game written in python3 using `turtle` module, use Up arrow to cross the busy street without getting hit by the car!                                                            
    [DEMO](https://replit.com/@andreivln/turtle-crossing?v=1)                                                                                                                                                                 
    ![turtle-crossing](https://github.com/andreivln/python3-projects/blob/main/Turtle-crossing/turtle-crossing.gif)
+
+6. Guess-US-States: An educational game of guessing all 50 U.S. states by typing state name corretly(case insensitive)!  Type 'Exit' to exit and log the missing states for learning purposes!                                
+   [DEMO](https://replit.com/@andreivln/US-states-game?v=1)                                                                                                                                                               
+   ![guess-states-game](https://github.com/andreivln/python3-projects/blob/main/US-states-game/us-states-guess.gif)                         
