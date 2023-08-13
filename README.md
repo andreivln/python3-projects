@@ -20,3 +20,7 @@
 4. Pong-game: Classic pong game written in python3 using `turtle` module, use w and s to control left paddle, up and down arrow key to control right paddle, ball speed increases with each successful paddle bounce.          
    [DEMO](https://replit.com/@andreivln/Pong-game?v=1)                                                                                                                                                                         
    ![pong-game](https://github.com/andreivln/python3-projects/blob/main/Arcade-game-pong/pong-game.gif)
+
+5. Turtle-crossing: Classic turtle crossing game written in python3 using `turtle` module, use Up arrow to cross the busy street without getting hit by the car!                                                            
+   [DEMO](https://replit.com/@andreivln/turtle-crossing?v=1)                                                                                                                                                                 
+   ![turtle-crossing](https://github.com/andreivln/python3-projects/blob/main/Turtle-crossing/turtle-crossing.gif)
