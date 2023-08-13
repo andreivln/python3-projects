@@ -27,4 +27,8 @@
 
 6. Guess-US-States: An educational game of guessing all 50 U.S. states by typing state name corretly(case insensitive)!  Type 'Exit' to exit and log the missing states for learning purposes!                                
    [DEMO](https://replit.com/@andreivln/US-states-game?v=1)                                                                                                                                                               
-   ![guess-states-game](https://github.com/andreivln/python3-projects/blob/main/US-states-game/us-states-guess.gif)                         
+   ![guess-states-game](https://github.com/andreivln/python3-projects/blob/main/US-states-game/us-states-guess.gif)
+
+7. Miles-Km-Converter: Miles to Km converter, my first GUI program using `tkinter` module in python.                                                                                                                        
+   [DEMO](https://replit.com/@andreivln/Miles-to-Km?v=1)                                                                                                                                                                    
+   ![miles-to-km](https://github.com/andreivln/python3-projects/blob/main/Miles-to-KM-converter/miles-km-converter.gif)
