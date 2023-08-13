@@ -61,3 +61,7 @@
 14. Top-100-movies-scraping: a python3 script that scrapes the top 100 movies from EmpireOnline Top 100 movies of all-time.                                                                                                   
     [DEMO](https://replit.com/@andreivln/top100-movie-scrapper?v=1)                                                                                                                                      
     ![scrapper100movies](https://github.com/andreivln/python3-projects/blob/main/top100-movie-scrapper/top100-movies-scrape.gif)
+
+15. Spotify-time-machine: Travel back to time via spotify music throwback! A playlist of top100 hits(if available) will be automatically created at your choice of time!                                                      
+    [DEMO](https://replit.com/@andreivln/Spotify-time-machine?v=1)                                                                                                                                                            
+    ![spotify-time-machine](https://github.com/andreivln/python3-projects/blob/main/Spotify-time-machine/spotify-time-machine.gif)
