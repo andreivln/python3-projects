@@ -52,4 +52,8 @@
                                                                                                              
 12. Quizzler-app: Upgraded version of previous command line based quiz app, using opentdb API to pull questions. Modify`category` and `amount` to fit your own needs and test your knowledge!                                
     [DEMO](https://replit.com/@andreivln/quizzler-app?v=1)                                                                                                                                       
-    ![quizzler](https://github.com/andreivln/python3-projects/blob/main/Quizzler-app/quizzler-app.gif)                                                                                          
+    ![quizzler](https://github.com/andreivln/python3-projects/blob/main/Quizzler-app/quizzler-app.gif)
+
+13. Exercise-tracker: Track your exercises by naturally type in your exercises info using the free `NLP api `provided by Nutritionix and Google sheet manipulation api provided by Sheety!                                    
+    [DEMO](https://replit.com/@andreivln/Exercise-tracker?v=1)                                                                                                                                      
+    ![exercise-tracker](https://github.com/andreivln/python3-projects/blob/main/Exercise-tracker/exercise-tracker.gif)
