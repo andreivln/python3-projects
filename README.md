@@ -40,3 +40,7 @@
 9. Password-manager: A password manager that stores credentials locally and can generate strong, random password!                                                                                                             
     [DEMO](https://replit.com/@andreivln/password-manager?v=1)                                                                                                                                                          
    ![password-manager](https://github.com/andreivln/python3-projects/blob/main/Password-manager/password-manager.gif)
+
+10. Flash-card: A flash card program written in python3 using `tkinter` module. It will read from local `words_to_learn.csv` file that contains all the words you left from previous study, if no such file, it will read default `french_words.csv` and get your study started. The program will display french word first for 5 seconds, after it will turn back, you can press check or cross button to let the program know if you knew this word already or not, the program will remember.                                                                                                                                                                      
+    [DEMO](https://replit.com/@andreivln/Flash-cards?v=1)                                                                                                                                                                  
+    ![flash-cards](https://github.com/andreivln/python3-projects/blob/main/Flash-cards/flash-card.gif)
