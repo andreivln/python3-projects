@@ -69,3 +69,9 @@
 16. Cookie-clicker-game-bot: A clicker bot of the popular cookie game, it constantly clicks on the cookie and buy the most expensive available item every 5 seconds to boost the cookie per second, A good way of learning `selenium` module! Play it on: [Cookie clicker game](http://orteil.dashnet.org/experiments/cookie/), to use the bot, install webdriver and replace its path in main.py.                                        
     [DEMO](https://replit.com/@andreivln/cookie-clicker?v=1)                                                                                                                                                                
     ![cookie-clicker](https://github.com/andreivln/python3-projects/blob/main/Cookie-clicker/cookie-clicker.gif)
+
+17. An internet provider complaint bot(I used the name Comcast on my example) that can will automatically check current download/upload speed via speedtest and tweet to complain!                                           
+    [DEMO](https://replit.com/@andreivln/Internet-provider-complaint-bot?v=1)                                                                                                                                                 
+    ![complaint-bot](https://github.com/andreivln/python3-projects/blob/main/Internet-provider-complaint-bot/comcast-complaint-bot.png)
+
+
