@@ -10,4 +10,5 @@
 
 2. Turtle-race: 6 turtles in rainbow colors will race to final at random speed. Type a rainbow color to bet on it!
    [DEMO](https://replit.com/@andreivln/Turtle-Race?v=1)
+   [turtle-race](https://raw.githubusercontent.com/andreivln/python3-projects/main/Turtle-race/turtle-race.gif)
    
