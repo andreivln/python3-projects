@@ -47,4 +47,9 @@
 
 11. Kanye-quotes-generator: A Kanye quotes machine, written in Python3 using `requests` module, which will generate some real deep quotes from Kanye every time kanye button was pressed!                                   
     [DEMO](https://replit.com/@andreivln/Kanye-quotes?v=1)                                                                                                                                            
-    ![quotes](https://github.com/andreivln/python3-projects/blob/main/Kanye-quotes/quotes.gif)                                                                                                         
+    ![quotes](https://github.com/andreivln/python3-projects/blob/main/Kanye-quotes/quotes.gif)
+
+                                                                                                             
+12. Quizzler-app: Upgraded version of previous command line based quiz app, using opentdb API to pull questions. Modify`category` and `amount` to fit your own needs and test your knowledge!                                
+    [DEMO](https://replit.com/@andreivln/quizzler-app?v=1)                                                                                                                                       
+    ![quizzler](https://github.com/andreivln/python3-projects/blob/main/Quizzler-app/quizzler-app.gif)                                                                                          
