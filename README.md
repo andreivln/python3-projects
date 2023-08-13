@@ -57,3 +57,7 @@
 13. Exercise-tracker: Track your exercises by naturally type in your exercises info using the free `NLP api `provided by Nutritionix and Google sheet manipulation api provided by Sheety!                                    
     [DEMO](https://replit.com/@andreivln/Exercise-tracker?v=1)                                                                                                                                      
     ![exercise-tracker](https://github.com/andreivln/python3-projects/blob/main/Exercise-tracker/exercise-tracker.gif)
+
+14. Top-100-movies-scraping: a python3 script that scrapes the top 100 movies from EmpireOnline Top 100 movies of all-time.                                                                                                   
+    [DEMO](https://replit.com/@andreivln/top100-movie-scrapper?v=1)                                                                                                                                      
+    ![scrapper100movies](https://github.com/andreivln/python3-projects/blob/main/top100-movie-scrapper/top100-movies-scrape.gif)
