@@ -78,8 +78,7 @@
     [DEMO](https://replit.com/@andreivln/Instagram-follower-bot?v=1)                                                                                                                                                          
     ![instagram-follower-bot](https://github.com/andreivln/python3-projects/blob/main/Instagram-follower-bot/instagram-follower-bot.gif)
 
-19. A Stock news monitoring project that will get the stocks of a company(i chose Tesla) and it will show u if it went UP or DOWN in the last 24h and it will send u a message on your phone by using `twilio`
-    with how much % the price has lowered or incresead and with the latest news.                                                                                                                                 
+19. Capstone Project - Built a Python script that gets the TSLA stock closing price of yesterday and the previous day, gets the trending news about Tesla and sends an SMS using `Twilio API`.                                
     ![stocktrading-app](https://github.com/andreivln/python3-projects/blob/main/StockTrading-app/IMG_2314.jpeg)
                                                                                 
 
