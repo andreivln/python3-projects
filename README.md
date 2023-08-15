@@ -77,6 +77,10 @@
 18. Instagram-follower-bot: An Instagram bot that will automatically follow the followers of target account, and skip anyone which you already followed! Import your own account credential to environmental variables and input target account's name at the start when you run the script.                                                                                                                                                             
     [DEMO](https://replit.com/@andreivln/Instagram-follower-bot?v=1)                                                                                                                                                          
     ![instagram-follower-bot](https://github.com/andreivln/python3-projects/blob/main/Instagram-follower-bot/instagram-follower-bot.gif)
+
+19. A Stock news monitoring project that will get the stocks of a company(i chose Tesla) and it will show u if it went UP or DOWN in the last 24h and it will send u a message on your phone by using `twilio`
+    with how much % the price has lowered or incresead and with the latest news.                                                                                                                                 
+    ![stocktrading-app](https://github.com/andreivln/python3-projects/blob/main/StockTrading-app/IMG_2314.jpeg)
                                                                                 
 
 
