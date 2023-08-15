@@ -25,7 +25,7 @@ CLIENT_ID = os.environ['spotify_client_id']
 CLIENT_SECRET = os.environ['spotify_client_secret']
 SCOPE = "playlist-modify-private"
 REDIRECT_URI = "http://example.com"
-CACHE_PATH = "token.txt"
+CACHE_PATH = os.environ['token']
 USERNAME = os.environ['username']
 
 SP = spotipy.Spotify(auth_manager=SpotifyOAuth(client_id=CLIENT_ID,
