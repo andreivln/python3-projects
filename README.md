@@ -80,6 +80,9 @@
 
 19. Capstone Project - Built a Python script that gets the TSLA stock closing price of yesterday and the previous day, gets the trending news about Tesla and sends an SMS using `Twilio API`.                                
     ![stocktrading-app](https://github.com/andreivln/python3-projects/blob/main/StockTrading-app/IMG_2314.jpeg)
+
+20. Capstone Project - Flight deals bot - The app in designed to read a web-based excel sheet where you have the destinations you plan on visiting and the maximum amount you are willing to pay for the flight, search for the flights available in the next 6 months and, if finding a deal that fits your budget automatically send you an SMS with the price.                                                                                   
+    ![flight-deals](https://github.com/andreivln/python3-projects/blob/main/flight-deals-alert/IMG_2317.jpeg)
                                                                                 
 
 
