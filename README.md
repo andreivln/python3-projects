@@ -65,6 +65,10 @@
 
 20. Capstone Project - Flight deals bot - The app in designed to read a web-based excel sheet where you have the destinations you plan on visiting and the maximum amount you are willing to pay for the flight, search for the flights available in the next 6 months and, if finding a deal that fits your budget automatically send you an SMS with the price.                                                                                   
     ![flight-deals](https://github.com/andreivln/python3-projects/blob/main/flight-deals-alert/IMG_2317.jpeg)
+
+21. Capstone project - Scraping a renting website for available deals in a certain area. Automated data entry in a form with Selenium. Automation - Selenium Webdriver, Web scraping - BeautifulSoup                         
+    ![renting](https://github.com/andreivln/python3-projects/blob/main/Renting_research_project/renting1.gif)
+    ![renting1](https://github.com/andreivln/python3-projects/blob/main/Renting_research_project/renting.png)
                                                                                 
 
 
