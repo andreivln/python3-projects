@@ -66,9 +66,12 @@
 20. Capstone Project - Flight deals bot - The app is designed to read a web-based excel sheet where you have the destinations you plan on visiting and the maximum amount you are willing to pay for the flight, search for the flights available in the next 6 months and, if finding a deal that fits your budget automatically send you an SMS with the price.                                                                                   
     ![flight-deals](https://github.com/andreivln/python3-projects/blob/main/flight-deals-alert/IMG_2317.jpeg)
 
-21. Capstone project - Scraping a renting website for available deals in a certain area. Automated data entry in a form with Selenium. Automation - Selenium Webdriver, Web scraping - BeautifulSoup                         
+21. Capstone project - Scraping a renting website for available deals in a certain area. Automated data entry in a form with `Selenium`. `Automation - Selenium Webdriver`, `Web scraping - BeautifulSoup`                        
     ![renting](https://github.com/andreivln/python3-projects/blob/main/Renting_research_project/renting1.gif)
     ![renting1](https://github.com/andreivln/python3-projects/blob/main/Renting_research_project/renting.png)
+
+22.Top-10-Movies: A personal topN movies website which user can edit their top movies, it will pull movie data from TMDB via API. Build with `Python Flask`+`Flask-WTF`+`Jinaja` +`Flask-SQLAlchemy`+`Bootstrap-Flask`.
+   ![top-n-movies](https://github.com/andreivln/python3-projects/blob/main/top-n-movies/top-movies.gif)
                                                                                 
 
 
