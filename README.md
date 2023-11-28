@@ -74,6 +74,7 @@
    ![top-n-movies](https://github.com/andreivln/python3-projects/blob/main/top-n-movies/top-movies.gif)
 
 23. Coffee-and-wifi: A responsive blog coffee and wifi website build using Python's `Flask` + `FlaskWTF` + `Jinja` + `Bootstrap` and some css and html.
+
    ![coffe-wiffi](https://github.com/andreivln/python3-projects/blob/main/Coffee-wiffi/coffee-and-wifi.gif)
                                                                                 
 
