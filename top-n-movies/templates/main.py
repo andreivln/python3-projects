@@ -20,7 +20,7 @@ IMAGE_URL = "https://image.tmdb.org/t/p/w500"
 
 
 ##CREATE DB
-app.config["SQLALCHEMY_DATABASE_URI"] = os.environ['MOVIES_DB']
+app.config["SQLALCHEMY_DATABASE_URI"] = "sqlite:///movies.db"
 db = SQLAlchemy()
 db.init_app(app)
 
